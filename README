@@ -1,0 +1,6 @@
+Usage
+sh shasm.sh <name_of_source_file> <name_of_executable>
+						OR
+./shasm.sh <name_of_source_file> <name_of_executable>
+
+Licensed Under GPL V2, further details within LICENSE file.
