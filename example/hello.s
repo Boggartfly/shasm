@@ -1,5 +1,8 @@
 # hello.s
 # Usage:- sh shasm.sh hello.s hello.o
+# This particular piece of code will work only with Mac OS X x64. shasm can 
+# be used on other platforms with the appropriate source code. Be sure to
+# specify main as the entry point. Prints Hello world!
 .section __DATA,__data
 str:
   .asciz "Hello world!\n"
