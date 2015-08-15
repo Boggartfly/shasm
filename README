@@ -3,4 +3,8 @@ sh shasm.sh <name_of_source_file> <name_of_executable>
 						OR
 ./shasm.sh <name_of_source_file> <name_of_executable>
 
-Licensed Under GPL V2, further details within LICENSE file.
+shasm works on Linux and Mac OS X. Requires Xcode on Mac OS X. May work any other shell having as and ld installed on the system.
+This is Free Software as defined by Under GPL V2, further details within LICENSE file. 
+
+Please feel free to contact me at any point, if you face any difficulties or have a question for me. 
+Contact me at laerdevstudios@gmail.com
